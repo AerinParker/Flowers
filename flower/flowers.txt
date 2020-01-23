@@ -1,4 +1,0 @@
-rose: red, 40, true
-pansy: yellow, 5, true
-lily: pink, 6, true
-tulip: yellow, 3, true
