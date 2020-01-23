@@ -1,3 +1,2 @@
 # Flowers
-Exercise to print objects and their attributes.
-Prints three flower types and their qualities.
+Prints three flower types and their qualities and writes them to a file flowers.txt. 
